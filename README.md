@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Shawnferns004.Shawnferns004" />
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&center=true&duration=4000&pause=300&color=8DECB4&random=false&width=600&height=50&lines=Hi+there+!!;I'm+Shon+Fernandes" alt="Typing SVG" align"center"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&center=true&duration=4000&pause=300&color=8DECB4&random=false&width=600&height=50&lines=Hi+there!!😁;I'm+Shon+Fernandes" alt="Typing SVG" align"center"/></a>
 </h1>
 
 <h3 align="center">A coding enthusiast from India IN</h3>
@@ -52,18 +52,24 @@
 
 <br/>
 <hr/>
-<!--  <div align="center">
+ <div align="center">
  <h2> 🐍  My Contributuion  🐍</h2>
  <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shawnferns004/Shawnferns004/output/github-contribution-grid-snake.svg" />
 
  <br/><br/><br/>
- </div> -->
+ </div>
 
  <h2 align="center"> ⚡ Stats  ⚡</h2>
  <br/>
- 
+ <div align="center">
+     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=SHawnferns004&theme=react&hide_border=false"/>
+     <img width=390 src="https://github-readme-stats.vercel.app/api?username=SHawnferns004&theme=react&show_icons=true&hide_border=false&count_private=true"/>
+   <br/>
+     <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHawnferns004&theme=react&show_icons=true&hide_border=false&layout=compact"/>
+ </div>
+<hr/>
 
-
-  
-     
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=35&center=true&duration=4000&pause=300&color=CAF4FF&random=false&width=600&height=50&lines=Thanks+for+visiting+!;Shoot+me+a+message+on+linkedin;I'm+always+down+to+collab+:)" alt="Typing SVG" align"center"/></a>
+</h1>
