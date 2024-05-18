@@ -53,7 +53,7 @@
 <br/>
 <hr/>
  <div align="center">
- <h2> 🪢  My Contributuion  🪢</h2>
+ <h2> 🐍  My Contributuion  🐍</h2>
  <br>
  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Shawnferns004/Shawnferns004/output/github-contribution-grid-snake.svg" />
 
