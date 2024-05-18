@@ -14,7 +14,7 @@
   
 🌱 I'm currently learning **Advance Python, React, Logo Designing**
      
-💬 Ask me about **Python, Java, Htnl, CSS, DBMS.... or anything [here(https://github.com/Shawnferns004/Shawnferns004/issues)**
+💬 Ask me about **Python, Java, Html, CSS, DBMS, Sqlite**
 </div>
 
 <div align="center">
